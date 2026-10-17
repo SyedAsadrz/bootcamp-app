@@ -1,0 +1,5 @@
+
+.Venv/
+__Pycache__/
+.pytest_cache/
+*.pyc
